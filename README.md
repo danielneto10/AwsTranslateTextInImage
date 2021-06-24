@@ -1,2 +1,2 @@
 # AwsTranslateTextInImage
-Analysis and translation of the image text using aws rekognition and aws translate
+Analysis and translation of the image text using the aws rekognition and aws translate
